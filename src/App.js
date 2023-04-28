@@ -1,34 +1,25 @@
-
-import cakeItem from './assets/img/cakeItem.png'
 import cakeItem2 from './assets/img/cakeItem2.png'
 import cakeItem3 from './assets/img/cakeItem3.png'
 import cakeItem4 from './assets/img/cakeItem4.png'
 import cakeItem5 from './assets/img/cakeItem5.png'
 import cakeItem6 from './assets/img/cakeItem6.png'
 
-import Header from './components/Header/Header'
-import Button from './components/common/Button/Button'
+
+import { Header, Categories } from './components'
+
+
+const App = () => {
 
 
 
-function App() {
   return (
     <div>
       <div className='wrapper'>
        <Header />
-       <Button outline>Кнопка</Button>
-       <Button >123</Button>
         <main>
           <div className='container'>
             <div className='content__top'>
-              <div className='categories'>
-                <ul>
-                  <li className='active'>Все</li>
-                  <li>Торты</li>
-                  <li>Краффины</li>
-                  <li>Бенто Торты</li>
-                </ul>
-              </div>
+              <Categories items={['Торты','Краффины','Бенто торты' ]}/>
               <div className='sort'>
                 <div className='sort__label'>
                   <svg
