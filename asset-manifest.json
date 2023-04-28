@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/sabcake/static/css/main.6997d2cc.css",
-    "main.js": "/sabcake/static/js/main.5413e87c.js",
+    "main.js": "/sabcake/static/js/main.1d802528.js",
     "static/media/cakeItem4.png": "/sabcake/static/media/cakeItem4.54783b3f49163f16c139.png",
     "static/media/cakeItem2.png": "/sabcake/static/media/cakeItem2.69c6c855ab2765a89b98.png",
-    "static/media/cakeItem.png": "/sabcake/static/media/cakeItem.67df71d13d5f20b7d6fc.png",
     "static/media/cakeItem3.png": "/sabcake/static/media/cakeItem3.e98000c6d50822d62656.png",
     "static/media/cakeItem6.png": "/sabcake/static/media/cakeItem6.1517a87d653877080c61.png",
     "static/media/ProximaNova-Regular.eot": "/sabcake/static/media/ProximaNova-Regular.d97f8f32c098b28c3ab0.eot",
@@ -23,10 +22,10 @@
     "static/media/cake2.png": "/sabcake/static/media/cake2.470d99cc1288d869ced7.png",
     "index.html": "/sabcake/index.html",
     "main.6997d2cc.css.map": "/sabcake/static/css/main.6997d2cc.css.map",
-    "main.5413e87c.js.map": "/sabcake/static/js/main.5413e87c.js.map"
+    "main.1d802528.js.map": "/sabcake/static/js/main.1d802528.js.map"
   },
   "entrypoints": [
     "static/css/main.6997d2cc.css",
-    "static/js/main.5413e87c.js"
+    "static/js/main.1d802528.js"
   ]
 }
